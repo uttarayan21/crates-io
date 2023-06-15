@@ -1,0 +1,1 @@
+{"name":"minidom","vers":"0.15.2","deps":[{"name":"rxml","req":">=0.9.1, <0.10.0","features":["mt"],"optional":false,"default_features":false,"target":null,"kind":"normal","registry":"https://github.com/rust-lang/crates.io-index","package":null}],"cksum":"aa8f417805becc09a3e86879b3b6e4812e4ffd8c7e81e91783693b676b2b9e0c","features":{},"yanked":false,"links":null}
